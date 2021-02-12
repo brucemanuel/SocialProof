@@ -206,21 +206,21 @@ p {
     .rating-1 {
         position: relative;
         top: 270px;
-        right: -35px;
+        right: -20px;
         margin-top: 20px;
     }
 
     .rating-2 {
         position: relative;
         top: 274px;
-        right: -35px;
+        right: -20px;
        
     }
 
     .rating-3 {
         position: relative;
         top: 278px;
-        right: -35px;
+        right: -20px;
         margin-bottom: 20px;
         
     }
@@ -236,7 +236,6 @@ p {
         width: 500px;
         height: 300px;
         justify-content: center;
-        margin-left: 13px;
         border-radius: 16px;
         margin-top: 90px;
     }
@@ -244,8 +243,7 @@ p {
     .irene-review {
         margin: 20px 0;
         width: 500px;
-        height: 300px;
-        margin-left: 13px;
+        height: 300px;   
         border-radius: 16px;
         
     }
@@ -254,13 +252,12 @@ p {
         margin: 0;
         width: 500px;
         height: 300px;
-        margin-left: 13px;
         border-radius: 16px;
     }
 
     .subheading {
         width: 100%;
-        margin-left: 80px;
+        margin-left: 65px;
         margin-bottom: 80px;
     }
 
